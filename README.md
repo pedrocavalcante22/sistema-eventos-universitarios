@@ -21,4 +21,4 @@ Link do site
 
 O site será publicado utilizando o GitHub Pages.
 
-Link: 
+Link: https://pedrocavalcante22.github.io/sistema-eventos-universitarios/
